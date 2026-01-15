@@ -1,5 +1,5 @@
 # Student Management System
-# Author: Your Name
+# Author: Egenti Michael
 # Language: Python 3
 
 students = []
@@ -85,5 +85,6 @@ def main_menu():
             break
         else:
             print("Invalid choice. Try again.\n")
+
 
 main_menu() 
